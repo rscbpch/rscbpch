@@ -20,11 +20,11 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rscbpch&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscbpch&layout=compact&theme=radical" height="160"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=false" height="160"/>
+<img src="https://streak-stats.demolab.com?user=rscbpch&theme=radical&hide_border=false" height="160"/>
 
 </div>
 
@@ -33,6 +33,6 @@
 <h3 align="center">🔥 Contribution Stats</h3>
 <div align="center">
   
-![](https://github-contribution-stats.vercel.app/api/?username=YOUR_USERNAME)
+![](https://github-contribution-stats.vercel.app/api/?username=rscbpch)
 
 </div>
