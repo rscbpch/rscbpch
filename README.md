@@ -27,12 +27,3 @@
 <img src="https://streak-stats.demolab.com?user=rscbpch&theme=radical&hide_border=false" height="160"/>
 
 </div>
-
----
-
-<h3 align="center">🔥 Contribution Stats</h3>
-<div align="center">
-  
-![](https://github-contribution-stats.vercel.app/api/?username=rscbpch)
-
-</div>
