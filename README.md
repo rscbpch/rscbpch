@@ -20,8 +20,12 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=rscbpch&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscbpch&layout=compact&theme=radical" height="160"/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rscbpch&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscbpch&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=rscbpch&theme=radical&hide_border=false" height="160"/>
