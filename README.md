@@ -27,7 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscbpch&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=rscbpch&theme=radical&hide_border=false" height="160"/>
-
 </div>
