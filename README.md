@@ -21,13 +21,13 @@
 
 <!-- GitHub Stats -->
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscbpch&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rscbpch&show_icons=true&theme=dark&hide_border=false" />
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rscbpch&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rscbpch&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 </div>
